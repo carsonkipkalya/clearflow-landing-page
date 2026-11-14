@@ -38,6 +38,7 @@ This project explores landing page design, content hierarchy, responsive web dev
 ## Stack
 
 - **HTML**
+- **CSS**
 
 ---
 
